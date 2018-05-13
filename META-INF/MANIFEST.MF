@@ -2,6 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: JOGL
 Bundle-SymbolicName: com.jogamp.jogl
+Automatic-Module-Name: com.jogamp.jogl
 Bundle-Version: 2.2.4
 Bundle-ClassPath: gluegen-rt.jar,
  jogl-all.jar
