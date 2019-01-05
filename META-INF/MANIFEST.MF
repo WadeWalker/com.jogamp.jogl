@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: JOGL
 Bundle-SymbolicName: com.jogamp.jogl
 Automatic-Module-Name: com.jogamp.jogl
-Bundle-Version: 2.2.4
+Bundle-Version: 2.3.2
 Bundle-ClassPath: gluegen-rt.jar,
  jogl-all.jar
 Bundle-Vendor: JogAmp
@@ -58,14 +58,14 @@ Export-Package: com.jogamp.common,
  com.jogamp.opengl.util.texture.awt,
  com.jogamp.opengl.util.texture.spi,
  com.jogamp.opengl.util.texture.spi.awt,
- javax.media.nativewindow,
- javax.media.nativewindow.util,
- javax.media.opengl,
- javax.media.opengl.awt,
- javax.media.opengl.fixedfunc,
- javax.media.opengl.glu,
- javax.media.opengl.glu.gl2,
- javax.media.opengl.glu.gl2es1,
+ com.jogamp.nativewindow,
+ com.jogamp.nativewindow.util,
+ com.jogamp.opengl,
+ com.jogamp.opengl.awt,
+ com.jogamp.opengl.fixedfunc,
+ com.jogamp.opengl.glu,
+ com.jogamp.opengl.glu.gl2,
+ com.jogamp.opengl.glu.gl2es1,
  jogamp.common,
  jogamp.common.jvm,
  jogamp.common.os,
